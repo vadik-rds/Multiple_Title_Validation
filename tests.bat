@@ -1,0 +1,3 @@
+cd C:\Workspace\Multiple_Title_Validation
+java -jar C:\Workspace\Multiple_Title_Validation\target\Multiple_Title_Validation-1.1-jar-with-dependencies.jar "http://drcfritz.com^Dr. Charles Fritz" "http://drcfritz.com^Clinical Psychology San Francisco | Dr. Charles Fritz" "http://icemarketing.com^Weekly Special" "http://icemarketing.com^icemarketing.com" "http://www.oldpropa.com^Best Sports Bar" "http://www.oldpropa.com^Best Sports Bar in Palo Alto | Old Pro" "http://www.oldpropa.com/blog^Best Sports Bar in Palo Alto" "http://www.oldpropa.com/blog^ | Best Sports Bar in Palo Alto | Old Pro" "http://www.localunion271.com^Farm to Table Restaurant Palo Alto" "http://www.localunion271.com^Farm to Table Restaurant Palo Alto | Local Union 271" 
+PAUSE
